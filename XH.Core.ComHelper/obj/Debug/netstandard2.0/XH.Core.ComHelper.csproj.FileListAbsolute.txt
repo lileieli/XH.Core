@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.ComHelper\bin\Debug\netstandard2.0\XH.Core.ComHelper.deps.json
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.ComHelper\bin\Debug\netstandard2.0\XH.Core.ComHelper.dll
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.ComHelper\bin\Debug\netstandard2.0\XH.Core.ComHelper.pdb
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.ComHelper\bin\Debug\netstandard2.0\XH.Core.Models.dll
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.ComHelper\bin\Debug\netstandard2.0\XH.Core.Models.pdb
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.ComHelper\obj\Debug\netstandard2.0\XH.Core.ComHelper.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.ComHelper\obj\Debug\netstandard2.0\XH.Core.ComHelper.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.ComHelper\obj\Debug\netstandard2.0\XH.Core.ComHelper.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.ComHelper\obj\Debug\netstandard2.0\XH.Core.ComHelper.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.ComHelper\obj\Debug\netstandard2.0\XH.Core.ComHelper.csproj.CopyComplete
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.ComHelper\obj\Debug\netstandard2.0\XH.Core.ComHelper.dll
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.ComHelper\obj\Debug\netstandard2.0\XH.Core.ComHelper.pdb
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.ComHelper\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.ComHelper\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.xml

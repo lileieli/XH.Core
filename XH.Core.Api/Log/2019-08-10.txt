@@ -1,0 +1,121 @@
+
+Log Entry :  admin  15:29:17 2019年8月10日 
+XH.Core.Api.Areas.XH.Controllers.LoginController.Index (XH.Core.Api)
+ExceptionMsg:test
+-------------------------------
+
+Log Entry :  admin  15:32:59 2019年8月10日 
+XH.Core.Api.Areas.XH.Controllers.LoginController.Index (XH.Core.Api)
+ExceptionMsg:test
+StackTrace:   at XH.Core.Api.Areas.XH.Controllers.LoginController.Index() in C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.Api\Areas\XH\Controllers\LoginController.cs:line 25
+   at lambda_method(Closure , Object )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutorAwaitable.Awaiter.GetResult()
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+-------------------------------
+
+Log Entry :  admin  15:34:51 2019年8月10日 
+XH.Core.Api.Areas.XH.Controllers.LoginController.Index (XH.Core.Api)
+ExceptionMsg:test
+StackTrace:   at XH.Core.Api.Areas.XH.Controllers.LoginController.Index() in C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.Api\Areas\XH\Controllers\LoginController.cs:line 25
+   at lambda_method(Closure , Object )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutorAwaitable.Awaiter.GetResult()
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+-----------------------------------------------------------------------------------------------------
+
+Log Entry :  admin  15:37:17 2019年8月10日 
+XH.Core.Api.Areas.XH.Controllers.LoginController.Index (XH.Core.Api)
+ExceptionMsg:test
+StackTrace:   at XH.Core.Api.Areas.XH.Controllers.LoginController.Index() in C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.Api\Areas\XH\Controllers\LoginController.cs:line 25
+   at lambda_method(Closure , Object )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutorAwaitable.Awaiter.GetResult()
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+-----------------------------------------------------------------------------------------------------
+
+Log Entry :  admin  15:37:17 2019年8月10日 
+XH.Core.Api.Areas.XH.Controllers.LoginController.Index (XH.Core.Api)
+ExceptionMsg:test
+StackTrace:   at XH.Core.Api.Areas.XH.Controllers.LoginController.Index() in C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.Api\Areas\XH\Controllers\LoginController.cs:line 25
+   at lambda_method(Closure , Object )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutorAwaitable.Awaiter.GetResult()
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+-----------------------------------------------------------------------------------------------------
+
+Log Entry :  admin  15:38:24 2019年8月10日 
+XH.Core.Api.Areas.XH.Controllers.LoginController.Index (XH.Core.Api)
+ExceptionMsg:test
+StackTrace:   at XH.Core.Api.Areas.XH.Controllers.LoginController.Index() in C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.Api\Areas\XH\Controllers\LoginController.cs:line 25
+   at lambda_method(Closure , Object )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutorAwaitable.Awaiter.GetResult()
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+-----------------------------------------------------------------------------------------------------
+
+Log Entry :  admin  16:18:47 2019年8月10日 
+LoginFilter-OnActionExecuting
+ExceptionMsg:参数Sign不能为空
+StackTrace:   at XH.Core.ComHelper.Filter.LoginFilter.OnActionExecuting(ActionExecutingContext context) in C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.ComHelper\Filter\LoginFilter.cs:line 49
+-----------------------------------------------------------------------------------------------------
+
+Log Entry :  admin  16:18:47 2019年8月10日 
+XH.Core.Api.Areas.XH.Controllers.LoginController.MethodRequest (XH.Core.Api)
+ExceptionMsg:参数Sign不能为空
+StackTrace:   at XH.Core.ComHelper.Filter.LoginFilter.OnActionExecuting(ActionExecutingContext context) in C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.ComHelper\Filter\LoginFilter.cs:line 64
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+-----------------------------------------------------------------------------------------------------
+
+Log Entry :  admin  16:19:11 2019年8月10日 
+LoginFilter-OnActionExecuting
+ExceptionMsg:参数Sign不能为空
+StackTrace:   at XH.Core.ComHelper.Filter.LoginFilter.OnActionExecuting(ActionExecutingContext context) in C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.ComHelper\Filter\LoginFilter.cs:line 49
+-----------------------------------------------------------------------------------------------------
+
+Log Entry :  admin  16:19:11 2019年8月10日 
+XH.Core.Api.Areas.XH.Controllers.LoginController.MethodRequest (XH.Core.Api)
+ExceptionMsg:参数Sign不能为空
+StackTrace:   at XH.Core.ComHelper.Filter.LoginFilter.OnActionExecuting(ActionExecutingContext context) in C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.ComHelper\Filter\LoginFilter.cs:line 64
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+-----------------------------------------------------------------------------------------------------

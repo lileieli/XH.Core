@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.Models\bin\Debug\netstandard2.0\XH.Core.Models.deps.json
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.Models\bin\Debug\netstandard2.0\XH.Core.Models.dll
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.Models\bin\Debug\netstandard2.0\XH.Core.Models.pdb
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.Models\obj\Debug\netstandard2.0\XH.Core.Models.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.Models\obj\Debug\netstandard2.0\XH.Core.Models.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.Models\obj\Debug\netstandard2.0\XH.Core.Models.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.Models\obj\Debug\netstandard2.0\XH.Core.Models.dll
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.Models\obj\Debug\netstandard2.0\XH.Core.Models.pdb

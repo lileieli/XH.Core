@@ -1,0 +1,25 @@
+
+Log Entry :  admin  22:06:22 2019年7月25日 
+RedisHelper-CacheConnection
+ExceptionMsg:It was not possible to connect to the redis server(s). There was an authentication failure; check that passwords (or client certificates) are configured correctly. AuthenticationFailure (None, last-recv: 238) on 127.0.0.1:6379/Interactive, Flushed/ComputeResult, last: ECHO, origin: SetResult, outstanding: 0, last-read: 0s ago, last-write: 0s ago, keep-alive: 60s, state: ConnectedEstablishing, mgr: 9 of 10 available, last-heartbeat: never, global: 0s ago, v: 2.0.601.3402
+-------------------------------
+
+Log Entry :  admin  22:08:31 2019年7月25日 
+RedisHelper-CacheConnection
+ExceptionMsg:It was not possible to connect to the redis server(s). There was an authentication failure; check that passwords (or client certificates) are configured correctly. AuthenticationFailure (None, last-recv: 238) on 127.0.0.1:6379/Interactive, Flushed/ComputeResult, last: ECHO, origin: SetResult, outstanding: 0, last-read: 0s ago, last-write: 0s ago, keep-alive: 60s, state: ConnectedEstablishing, mgr: 9 of 10 available, last-heartbeat: never, global: 0s ago, v: 2.0.601.3402
+-------------------------------
+
+Log Entry :  admin  22:11:47 2019年7月25日 
+RedisHelper-CacheConnection
+ExceptionMsg:It was not possible to connect to the redis server(s). There was an authentication failure; check that passwords (or client certificates) are configured correctly. AuthenticationFailure (None, last-recv: 238) on 127.0.0.1:6379/Interactive, Flushed/ComputeResult, last: ECHO, origin: SetResult, outstanding: 0, last-read: 0s ago, last-write: 0s ago, keep-alive: 60s, state: ConnectedEstablishing, mgr: 9 of 10 available, last-heartbeat: never, global: 0s ago, v: 2.0.601.3402
+-------------------------------
+
+Log Entry :  admin  22:13:01 2019年7月25日 
+RedisHelper-CacheConnection
+ExceptionMsg:Keyword '127.0.0.1:6379 password' is not supported
+-------------------------------
+
+Log Entry :  admin  22:13:42 2019年7月25日 
+RedisHelper-CacheConnection
+ExceptionMsg:Keyword '127.0.0.1:6379 password' is not supported
+-------------------------------

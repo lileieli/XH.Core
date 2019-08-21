@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.DAL\bin\Debug\netstandard2.0\XH.Core.DAL.deps.json
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.DAL\bin\Debug\netstandard2.0\XH.Core.DAL.dll
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.DAL\bin\Debug\netstandard2.0\XH.Core.DAL.pdb
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.DAL\obj\Debug\netstandard2.0\XH.Core.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.DAL\obj\Debug\netstandard2.0\XH.Core.DAL.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.DAL\obj\Debug\netstandard2.0\XH.Core.DAL.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.DAL\obj\Debug\netstandard2.0\XH.Core.DAL.dll
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.DAL\obj\Debug\netstandard2.0\XH.Core.DAL.pdb
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.DAL\obj\Debug\netstandard2.0\XH.Core.DAL.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.DAL\bin\Debug\netstandard2.0\XH.Core.IBLL.dll
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.DAL\bin\Debug\netstandard2.0\XH.Core.Models.dll
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.DAL\bin\Debug\netstandard2.0\XH.Core.IBLL.pdb
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.DAL\bin\Debug\netstandard2.0\XH.Core.Models.pdb
+C:\Users\Administrator\Desktop\卸货帮\XH.Core.Api\XH.Core.DAL\obj\Debug\netstandard2.0\XH.Core.DAL.csproj.CopyComplete

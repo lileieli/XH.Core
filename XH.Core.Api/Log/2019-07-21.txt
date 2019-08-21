@@ -1,0 +1,40 @@
+
+Log Entry :  admin  16:18:42 2019年7月21日 
+XH.Core.Api-Startup
+ExceptionMsg:测试
+-------------------------------
+
+Log Entry :  admin  18:07:58 2019年7月21日 
+RedisHelper-CacheConnection
+ExceptionMsg:Keyword 'Server' is not supported
+-------------------------------
+
+Log Entry :  admin  18:13:53 2019年7月21日 
+RedisHelper-CacheConnection
+ExceptionMsg:Keyword 'Server' is not supported
+-------------------------------
+
+Log Entry :  admin  18:15:26 2019年7月21日 
+RedisHelper-CacheConnection
+ExceptionMsg:Keyword 'Server' is not supported
+-------------------------------
+
+Log Entry :  admin  18:15:26 2019年7月21日 
+RedisHelper-CacheConnection
+ExceptionMsg:Keyword 'Server' is not supported
+-------------------------------
+
+Log Entry :  admin  18:17:25 2019年7月21日 
+RedisHelper-CacheConnection
+ExceptionMsg:Keyword 'Server' is not supported
+-------------------------------
+
+Log Entry :  admin  18:17:28 2019年7月21日 
+RedisHelper-CacheConnection
+ExceptionMsg:Keyword 'Server' is not supported
+-------------------------------
+
+Log Entry :  admin  18:17:40 2019年7月21日 
+RedisHelper-CacheConnection
+ExceptionMsg:Keyword 'Server' is not supported
+-------------------------------
